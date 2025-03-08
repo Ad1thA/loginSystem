@@ -60,3 +60,10 @@ Font Awesome Icons for an enhanced user experience 🎨
 Toggle Between Login & Sign-Up Forms with JavaScript 🔄
 
 Responsive Layout for better usability 📱
+
+
+![image](https://github.com/user-attachments/assets/d013989b-4fda-40d7-aec3-c9fd000d295e)
+
+![image](https://github.com/user-attachments/assets/c3312011-1769-470f-8cdb-6fc6fa49c338)
+
+
