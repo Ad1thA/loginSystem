@@ -65,7 +65,7 @@ ul li a:hover{
 .search{
   width: 330px;
   float: left;
-  margin-top: -40px;
+  margin-top: -50px;
   margin-left: 670px;
 }
 
@@ -105,6 +105,24 @@ ul li a:hover{
 .btn:focus{
   outline: none;
 }
+
+.btn2 {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: rgb(125, 125, 235); /* Button color */
+  color: white; /* Text color */
+  text-decoration: none;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px; /* Rounded corners */
+  transition: 0.3s ease;
+}
+
+.btn2:hover {
+  background-color: rgb(0, 102, 255); /* Hover effect */
+  color: #fff;
+}
+
 
 .srch:focus{
   outline: none;
@@ -231,4 +249,69 @@ ul li a:hover{
 }
 .icons ion-icon:hover{
   color: rgb(0, 102, 255);
+}
+
+
+
+/* Footer Styling */
+footer {
+  background-color: #bac6eb;
+  background:linear-gradient(to right,#c7c6c6,#acbffb);
+  color: black;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer-content, .footer-links, .footer-social {
+  margin: 10px;
+}
+
+.footer-content h3 {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links ul li {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.footer-links ul li a {
+  color: black;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.footer-links ul li a:hover {
+  color: #8080ff;
+}
+
+.footer-social a {
+  color: black;
+  font-size: 25px;
+  margin: 0 10px;
+  transition: 0.3s;
+}
+
+.footer-social a:hover {
+  color: #8080ff;
+}
+
+.footer-bottom {
+  margin-top: 20px;
+  border-top: 1px solid #0c0b0b;
+  padding-top: 10px;
 }
