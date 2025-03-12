@@ -1,10 +1,19 @@
+<?php
+session_start();
+include("../connect.php");
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <title>About</title>
+    <title>Webpage Design</title>
     <link rel="stylesheet" href="../CSS/EduD.css">
 </head>
-  <body>
+
+<body>
+
     <div class="main">
         <div class="navbar">
             <div class="icon">
@@ -70,4 +79,5 @@
     </div>
     <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
 </body>
+
 </html>

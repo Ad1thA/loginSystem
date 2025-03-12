@@ -37,7 +37,7 @@ if (isset($_POST['signIn'])) {
         session_start();
         $row = $result->fetch_assoc();
         $_SESSION['email'] = $row['email'];
-        header("Location: ../login/UI/EduD.html");
+        header("Location: ../login/UI/EduD.php");
         exit();
     } else {
         echo "Not Found, Incorrect Email or Password";
