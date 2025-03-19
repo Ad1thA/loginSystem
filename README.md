@@ -19,7 +19,7 @@ Features ✨
 
 ✅ Social Media Icons – Google and Facebook icons for future OAuth integration.
 
-How It Works 🛠️
+How It Works🛠️
 
 
  User Registration
