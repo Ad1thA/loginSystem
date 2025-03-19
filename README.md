@@ -50,7 +50,7 @@ How It Works 🛠️
 
 
 
-UI Design🎨
+UI Design 🎨
 
 
 Minimalistic & Clean Design ✅
